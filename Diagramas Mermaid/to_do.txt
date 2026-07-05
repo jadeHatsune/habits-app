@@ -1,0 +1,11 @@
+Hola, diagramas a hacer: 
+1.-Diagramas de componentes
+
+2.-Diagramas de secuencia 
+
+3.-ERD (Pendientes hasta definir y hacer DB)
+
+4.-Diagramas de Estado-Maquina
+
+
+All the diagrams could be check it in the website: mermaid.live :D 
